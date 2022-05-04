@@ -1,7 +1,6 @@
 # This_is_my_ecommerce
 Configuration of a working Express.js API to use Sequelize that interacts with a MySQL database. This is a back-end of e-commerce companies
 
-
 ![Badge](https://img.shields.io/github/license/kishan254/This_is_my_ecommerce)
 
 ## Description
@@ -51,7 +50,9 @@ In order to contribute to this app, you will need to understand the following;
 
 To run tests, please use the following command:
 
-- npm run test
+- npm install
+- npm run seeds
+- npm start
 
 ## Screenshots
 
@@ -63,10 +64,11 @@ To run tests, please use the following command:
 ## Technology
 
 - Github
-- HTML
-- CSS - Bootstrap
 - Javascript
 - Node.js
+- Sequelize
+- MySQL
+- Express.js
 
 ## Making
 
