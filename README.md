@@ -27,14 +27,14 @@ VIDEO OF WALKTHROUGH is below
 
 In order to run this application, you will need to install the following
 
-- npm install jest
-- npm instal inquirer
+- npm install
 
 ## Usage
 
 In order to use this app, you will need to understand the following;
 
-- HTML
+- MySQL
+- Express
 - Node
 - Javascript
 
@@ -42,7 +42,8 @@ In order to use this app, you will need to understand the following;
 
 In order to contribute to this app, you will need to understand the following;
 
-- HTML
+- MySQL
+- Express
 - Node
 - Javascript
 
@@ -56,10 +57,17 @@ To run tests, please use the following command:
 
 ## Screenshots
 
-![image_one](images/npm_test_one.png)
-![image_two](images/node_test_two.png)
-![image_three](images/html_created_three.png)
-![image_four](images/html_live_four.png)
+Main server.js
+![image_one](images/main_server.png)
+
+Model Index.js
+![image_two](images/model_index.png)
+
+Routes index.js
+![image_three](images/routes_index.png)
+
+Seeds index.js
+![image_four](images/seeds_index.png)
 
 ## Technology
 
@@ -69,26 +77,6 @@ To run tests, please use the following command:
 - Sequelize
 - MySQL
 - Express.js
-
-## Making
-
-These are the screenshots of the code 
-
-Get Employee Function
-
-![Code-Snippet] (images/getEmployee_function_five.png)
-
-Generate the page function
-
-![Code-Snippet](images/create_page_function_six.png)
-
-Card Selector function 
-
-![Code-Snippet](images/allCard_create_function_seven.png)
-
-Card Generator 
-
-![Code-Snippet](images/card_generator_eight.png)
 
 ## Questions
 
