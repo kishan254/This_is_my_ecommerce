@@ -12,8 +12,7 @@ This was a bootcamp project which I really enjoyed working on
 #VIDEO OF WALKTHROUGH is below
 
 
-![Video]
-(https://drive.google.com/drive/u/0/folders/1Oa81Li7a8tWhPUD2jEw3Zz3niqZoDqwW)
+![Video](https://drive.google.com/file/d/1Xw2wqTYrMl9wDGOlE_4yl8QaeE3_4uzA/view?usp=sharing)
 
 ## Tabel of Contents
 
