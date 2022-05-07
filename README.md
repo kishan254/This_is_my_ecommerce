@@ -10,7 +10,7 @@ This is an app I created using the node.js framework in which the user is able t
 This was a bootcamp project which I really enjoyed working on
 
 VIDEO OF WALKTHROUGH is below
-![Video](https://drive.google.com/drive/u/0/folders/1Oa81Li7a8tWhPUD2jEw3Zz3niqZoDqwW)
+[Video](https://drive.google.com/drive/u/0/folders/1Oa81Li7a8tWhPUD2jEw3Zz3niqZoDqwW)
 
 ## Tabel of Contents
 
